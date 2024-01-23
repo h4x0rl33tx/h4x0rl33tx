@@ -3,6 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=h4x0rl33tx&abbreviated=true)
 
-<div style="float: right;">
-    ![profileview](https://komarev.com/ghpvc/?username=h4x0rl33tx&abbreviated=true)
-</div>
+<figure style="float: right;">
+    <img src="https://komarev.com/ghpvc/?username=h4x0rl33tx&abbreviated=true" alt="profileview">
+    <figcaption>Profile View</figcaption>
+</figure>
