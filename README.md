@@ -1,6 +1,8 @@
 <h2 align="center">HELLO EVERYONE👋</h2>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F712&center=true&vCenter=true&multiline=true&random=true&width=1000&lines=Hacked+by+h4x0rl33tx)](https://git.io/typing-svg)
 <h3 align="center">Information security student from Ho Chi Minh City</h3>
+
 ![](https://komarev.com/ghpvc/?username=h4x0rl33tx&abbreviated=true)
 
 <h3 align="left">Languages and Tools:</h3>
