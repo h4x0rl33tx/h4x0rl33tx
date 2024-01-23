@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00F733&center=true&vCenter=true&random=false&width=1000&lines=Hacked+by+h4x0rl33tx)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on VNPT
-  
-- 🌱 I’m currently third-year student   
-
-<br/> 
-
 <h3 align="left">Languages:</h3>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
