@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00F733&center=true&vCenter=true&random=false&width=1000&lines=Hacked+by+h4x0rl33tx)](https://git.io/typing-svg)
 
-<p>Hello, I am passionate about hacking and exploiting web vulnerabilities. My expertise comes from CTF competitions and extensive research in information security. Proud to contribute to the cybersecurity community, I strive to continuously innovate in this dynamic field.</p>
+<p>I'm h4x0rl33tx, currently a third-year student majoring in Information Security. Apart from my studies, I enjoy participating in CTF challenges and exploring vulnerabilities in websites.</p>
 
 <h3 align="left">Languages:</h3>
 
