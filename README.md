@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00F733&center=true&vCenter=true&random=false&width=1000&lines=Hacked+by+h4x0rl33tx)](https://git.io/typing-svg)
 
-<p>I'm h4x0rl33tx, currently a third-year student majoring in Information Security. Apart from my studies, I enjoy participating in CTF challenges and exploring vulnerabilities in websites.</p>
+<p>I'm h4x0rl33tx, currently a 3rd year student majoring in Information Security. Besides studying, I also joined CTF and exploited holes in the site. My dream is to become a professional Red Team in the field of hacking.</p>
 
 <h3 align="left">Languages:</h3>
 
