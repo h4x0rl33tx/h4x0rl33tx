@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=300&color=00F733&center=true&vCenter=true&random=false&width=1000&lines=Hacked+by+h4x0rl33tx)](https://git.io/typing-svg)
 
-<h3 align="left">About me:</h3>
+<h3 align="left">About Me:</h3>
 
-<p>I'm h4x0rl33tx, currently a 3rd-year student majoring in Information Security. Beyond my academic pursuits, I actively engage in CTF challenges and exploit vulnerabilities on websites. My aspiration is to evolve into a seasoned professional on the Red Team, specializing in ethical hacking and security assessments.</p>
+<p>Hi. I'm h4x0rl33tx, currently a third-year student majoring in Information Security. In addition to my academic studies, I actively participate in Capture The Flag (CTF) challenges and practice exploiting vulnerabilities on websites. My goal is to further develop my skills and become a proficient professional on the Red Team, specializing in ethical hacking and security assessments.</p>
 
 <h3 align="left">Languages:</h3>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=blue) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<h3 align="left">OS:</h3>
+<h3 align="left">Operating System:</h3>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black) ![WSL](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=black)
