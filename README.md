@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me:</h3>
 
-<p>Hi. I'm h4x0rl33tx, currently a third-year student majoring in Information Security. In addition to my academic studies, I actively participate in Capture The Flag (CTF) challenges and practice exploiting vulnerabilities on websites. My goal is to further develop my skills and become a proficient professional on the Red Team, specializing in ethical hacking and security assessments.</p>
+<p>Hi. I'm h4x0rl33tx, currently a third-year student majoring in Information Security. In addition to my academic studies, I actively participate in CTF challenges and practice exploiting vulnerabilities on websites.</p>
 
 <h3 align="left">Languages:</h3>
 
