@@ -2,4 +2,4 @@
 
 <h3 align="left">About Me</h3>
 
-<p>Hi, I'm <strong>h4x0rl33tx</strong>, currently working in Penetration Testing and focusing on Information Security. Recently, I've developed a strong interest in Bug Bounty Programs. I enjoy discovering vulnerabilities and applying my skills in a practical setting. Bug Bounty has become a great way for me to challenge myself and continuously learn new things in the cybersecurity field.</p>
+<p>Hi, I'm <strong>h4x0rl33tx</strong>, and I currently work in Penetration Testing with a focus on Information Security. Lately, I've become really interested in Bug Bounty programs. I enjoy finding vulnerabilities and applying my skills in real-world scenarios. Bug Bounty has turned out to be a great way for me to challenge myself while constantly learning new things in the cybersecurity field.</p>
