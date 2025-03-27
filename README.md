@@ -2,4 +2,4 @@
 
 <h3 align="left">About Me</h3>
 
-<p>Hi, I'm <strong>h4x0rl33tx</strong>, and I currently work in Penetration Testing with a focus on Information Security. Lately, I've become really interested in Bug Bounty programs. I enjoy finding vulnerabilities and applying my skills in real-world scenarios. Bug Bounty has turned out to be a great way for me to challenge myself while constantly learning new things in the cybersecurity field.</p>
+<p>Hello, I'm <strong>Nguyen Vuong Quoc (h4x0rl33tx)</strong>, a passionate security enthusiast transitioning from Penetration Testing to Bug Bounty Hunting. My goal is to enhance security by identifying vulnerabilities, improving systems, and mastering hacker tactics to develop stronger defenses.</p>
