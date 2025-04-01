@@ -2,4 +2,4 @@
 
 <h3 align="left">About Me</h3>
 
-<p>Hello, I'm <strong>Nguyen Vuong Quoc (h4x0rl33tx)</strong>, a passionate security enthusiast transitioning from Penetration Testing to Bug Bounty Hunting. My goal is to enhance security by identifying vulnerabilities, improving systems, and mastering hacker tactics to develop stronger defenses.</p>
+<p>I am <strong>Nguyen Vuong Quoc (h4x0rl33tx)</strong>, a Penetration Tester with experience in web and mobile security testing. My goal is to continuously challenge myself and enhance my hacking skills through ongoing learning and improvement.</p>
